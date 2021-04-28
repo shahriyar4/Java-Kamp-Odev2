@@ -1,0 +1,7 @@
+
+public class KodlamaioManager {
+
+	public void register(Kodlamaio kodlamaio) {
+		
+	}
+}
